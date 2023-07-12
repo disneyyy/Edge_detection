@@ -1,4 +1,4 @@
-# Edge_detection
+# Histogram Equalization and Edge detection
 111-2 多媒體系統與應用
 ## Files
 * project3.m: Main program of edge detection
