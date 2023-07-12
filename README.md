@@ -14,4 +14,5 @@
 ![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Histogram_Comparison.png)  
 ## Picture After Edge Detection
 ![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Edge_Detection_eq.png)  
+## Others
 ![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Toyama_Nao.png)  
