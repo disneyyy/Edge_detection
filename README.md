@@ -5,4 +5,4 @@
 * sobel.m: Implement sobel's edge detection method
 
 ## Original Picture
-![original](Histogram+Edge.bpm)
+![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Histogram%2BEdge.bmp)
