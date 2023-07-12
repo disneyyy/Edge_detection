@@ -16,3 +16,6 @@
 ![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Edge_Detection_eq.png)  
 ## Others
 ![Histogram+Edge.bpm](https://github.com/disneyyy/Edge_detection/blob/main/Toyama_Nao.png)  
+
+> Author: 成功大學資訊工程學系113級 鄭鈞智  
+> Last Edit Time: 2023/07/12 17:26
